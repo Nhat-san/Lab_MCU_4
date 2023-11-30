@@ -25,7 +25,7 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Introduction
-This is project to build **a cooperative scheduler
+This is project to build a cooperative scheduler
 
 ## Hardware
 - STM32_bluepill
