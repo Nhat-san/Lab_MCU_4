@@ -1,0 +1,4 @@
+../Core/Src/scheduler.c:18:10:SCH_Add_Task	4
+../Core/Src/scheduler.c:38:6:SCH_update	4
+../Core/Src/scheduler.c:52:6:SCH_Dispatch_Tasks	5
+../Core/Src/scheduler.c:64:9:SCH_Delete_Tasks	2

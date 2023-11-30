@@ -1,0 +1,7 @@
+../Core/Src/system.c:16:6:Tasks_init	1
+../Core/Src/system.c:25:6:Debug_led_0	1
+../Core/Src/system.c:28:6:Debug_led_1	1
+../Core/Src/system.c:31:6:Debug_led_2	1
+../Core/Src/system.c:34:6:Debug_led_3	1
+../Core/Src/system.c:37:6:oneshot_led	1
+../Core/Src/system.c:41:6:sys_loop	1
